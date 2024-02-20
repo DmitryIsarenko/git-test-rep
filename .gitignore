@@ -2,3 +2,4 @@ docker-compose.yaml
 log/
 __pycache__/
 .venv
+.idea
